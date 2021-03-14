@@ -1,4 +1,13 @@
-### Hi there 👋
+<h1 align="center">Software Engineer &#9812; Frontend Developer</h1>
+<p align="center">Continous Learning <strong>&&</strong> Building things from Scratch <strong>&&</strong> Dedicated Father</p>
+
+
+<h3>GitHub Stats:</h3>
+
+<img src="https://github-readme-stats.vercel.app/api?username=joakimwretlind&show_icons=true&theme=react"/>
+
+
+
 
 <!--
 **JoakimWretlind/JoakimWretlind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
