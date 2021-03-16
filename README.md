@@ -5,7 +5,7 @@
 <h3>GitHub Stats:</h3>
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joakimwretlind&show_icons=true&theme=react"/>
-<img align="right" width="350px" src="githubAssets/bobber.jpg"/>
+<img align="right" width="325px" src="githubAssets/bobber.jpg"/>
 
 
 
