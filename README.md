@@ -7,6 +7,28 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joakimwretlind&show_icons=true&theme=react"/>
 <img align="right" width="325px" src="githubAssets/bobber.jpg"/>
 
+<h4>About:</h4>
+<p>My name is Joakim Wretlind, a unique FrontEnd developer from Stockholm, Sweden.</p>
+
+<h4>Languages</h4>
+<p>JavaScript, HTML, CSS3</p>
+
+<h4>Frameworks/ Libraries</h4>
+<p>React.js, GSAP, Verge3D </p>
+
+<h4>UI/UX</h4>
+<p>Illustrator, Photoshop, XD, Inkscape, Blender</p>
+
+<h4>Developer Tools:</h4>
+<p>Git, NPM, Postman, Parcel</p>
+
+<h4>Linguistic</h4>
+<p>Swedish (native), English, German</p>
+
+
+
+
+
 
 
 
