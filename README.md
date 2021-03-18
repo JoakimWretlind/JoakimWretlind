@@ -16,7 +16,7 @@
 <p>JavaScript, HTML, CSS3</p>
 
 <h4>Frameworks/ Libraries</h4>
-<p>React.js, GSAP, Verge3D </p>
+<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 <img src="https://img.shields.io/badge/-Green%20Sock-black?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
 
 <h4>UI/UX</h4>
