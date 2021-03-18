@@ -15,6 +15,7 @@
 
 <h4>Frameworks/ Libraries</h4>
 <p>React.js, GSAP, Verge3D </p>
+<img src="https://img.shields.io/badge/-Green%20Sock-black?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
 
 <h4>UI/UX</h4>
 <p>Illustrator, Photoshop, XD, Inkscape, Blender</p>
