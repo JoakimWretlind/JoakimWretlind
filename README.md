@@ -16,8 +16,10 @@
 <p>JavaScript, HTML, CSS3</p>
 
 <h4>Frameworks/ Libraries</h4>
-<img src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-<img src="https://img.shields.io/badge/-Green%20Sock-black?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
+<img align="left" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+<img align="left" src="https://img.shields.io/badge/-Green%20Sock-black?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
+
+<br>
 
 <h4>UI/UX</h4>
 <p>Illustrator, Photoshop, XD, Inkscape, Blender</p>
