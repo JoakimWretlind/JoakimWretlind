@@ -14,15 +14,15 @@
 <p>My name is Joakim Wretlind, a unique FrontEnd developer from Stockholm, Sweden.</p>
 
 <h4>Languages</h4>
-<img align="left" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
-<img align="left" src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
-<img align="left" src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+<img align="left" src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+<img align="left" src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
 
 <br><br>
 
 <h4>Frameworks/ Libraries</h4>
-<img align="left" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
-<img align="left" src="https://img.shields.io/badge/-Green%20Sock-black?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
+<img align="left" src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+<img align="left" src="https://img.shields.io/badge/-Green%20Sock-white?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
 
 <br><br>
 
