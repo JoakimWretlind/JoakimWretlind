@@ -11,7 +11,7 @@
 <br><br>
 
 <h4 align="left">About:</h4>
-<p>My name is Joakim Wretlind, a unique FrontEnd developer from Stockholm, Sweden.</p>
+<p>My name is Joakim Wretlind. I'm a unique FrontEnd developer from Stockholm, Sweden.</p>
 
 <h4>Languages</h4>
 <img align="left" src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
