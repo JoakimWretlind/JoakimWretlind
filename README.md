@@ -14,6 +14,9 @@
 
 <h4>Languages</h4>
 <p>JavaScript, HTML, CSS3</p>
+<img align="left" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
+<img align="left" src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
+<img align="left" src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
 
 <h4>Frameworks/ Libraries</h4>
 <img align="left" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
