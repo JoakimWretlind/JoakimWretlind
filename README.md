@@ -29,6 +29,9 @@
 <h4>Some Knowledge</h4>
 <img align="left" src="https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=node.js&logoColor=#339933"/>
 <img align="left" src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=000000"/>
+<img align="left" src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=#47A2480"/>
+<img align="left" src="https://img.shields.io/badge/-Docker-white?style=for-the-badge&logo=docker&logoColor=#2496ED"/>
+<img align="left" src="https://img.shields.io/badge/-Postman-white?style=for-the-badge&logo=postman&logoColor=#FF6C37"/>
 
 <br><br>
 
@@ -42,7 +45,7 @@
 <br><br>
 
 <h4>Developer Tools:</h4>
-<p>Git, NPM, Postman, Parcel</p>
+<p>Git, NPM, Parcel</p>
 
 <h4>Linguistic</h4>
 <p>Swedish (native), English, German</p>
