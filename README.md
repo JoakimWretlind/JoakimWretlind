@@ -22,8 +22,13 @@
 <br>
 
 <h4>UI/UX</h4>
-<p>Illustrator, Photoshop, XD, Inkscape, Blender</p>
+<img align="left" src="https://img.shields.io/badge/-XD-black?style=for-the-badge&logo=adobe-xd&logoColor=#FF61F6"/>
+<img align="left" src="https://img.shields.io/badge/-Illustrator-black?style=for-the-badge&logo=adobe-illustrator&logoColor=ff9a00"/>
+<img align="left" src="https://img.shields.io/badge/-Photoshop-black?style=for-the-badge&logo=adobe-photoshop&logoColor=#31A8FF"/>
+<img align="left" src="https://img.shields.io/badge/-Inkscape-black?style=for-the-badge&logo=inkscape&logoColor=#31A8FF"/>
+<img align="left" src="https://img.shields.io/badge/-Blender-black?style=for-the-badge&logo=blender&logoColor=#F5792A"/>
 
+<br>
 <h4>Developer Tools:</h4>
 <p>Git, NPM, Postman, Parcel</p>
 
