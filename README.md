@@ -26,6 +26,12 @@
 
 <br><br>
 
+<h4>Some Knowledge</h4>
+<img align="left" src="https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=node.js&logoColor=#339933"/>
+<img align="left" src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=000000"/>
+
+<br><br>
+
 <h4>UI/UX</h4>
 <img align="left" src="https://img.shields.io/badge/-XD-white?style=for-the-badge&logo=adobe-xd&logoColor=#FF61F6"/>
 <img align="left" src="https://img.shields.io/badge/-Illustrator-white?style=for-the-badge&logo=adobe-illustrator&logoColor=ff9a00"/>
