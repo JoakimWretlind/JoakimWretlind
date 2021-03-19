@@ -8,6 +8,7 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joakimwretlind&show_icons=true&theme=react" width="45%"/>
 <img align="right" width="50%" src="githubAssets/earth.png"/>
 
+<br><br>
 
 <h4 align="left">About:</h4>
 <p>My name is Joakim Wretlind, a unique FrontEnd developer from Stockholm, Sweden.</p>
@@ -17,6 +18,8 @@
 <img align="left" src="https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
 <img align="left" src="https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
 <img align="left" src="https://img.shields.io/badge/-CSS3-black?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
+
+<br><br>
 
 <h4>Frameworks/ Libraries</h4>
 <img align="left" src="https://img.shields.io/badge/-React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
