@@ -51,7 +51,9 @@
 <br><br>
 
 <h4>Linguistic</h4>
-<p>Swedish (native), English, German</p>
+<img align="left" src="https://img.shields.io/badge/-Swedish-white?style=for-the-badge&logo=sweden&logoColor=#000000"/>
+<img align="left" src="https://img.shields.io/badge/-English-white?style=for-the-badge&logo=england&logoColor=#00000"/>
+<img align="left" src="https://img.shields.io/badge/-German-white?style=for-the-badge&logo=germany&logoColor=#000000"/>
 
 
 
