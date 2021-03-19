@@ -25,7 +25,7 @@
 <img align="left" src="https://img.shields.io/badge/-XD-white?style=for-the-badge&logo=adobe-xd&logoColor=#FF61F6"/>
 <img align="left" src="https://img.shields.io/badge/-Illustrator-white?style=for-the-badge&logo=adobe-illustrator&logoColor=ff9a00"/>
 <img align="left" src="https://img.shields.io/badge/-Photoshop-white?style=for-the-badge&logo=adobe-photoshop&logoColor=#31A8FF"/>
-<img align="left" src="https://img.shields.io/badge/-Inkscape-white?style=for-the-badge&logo=inkscape&logoColor=#000000"/>
+<img align="left" src="https://img.shields.io/badge/-Inkscape-white?style=for-the-badge&logo=inkscape&logoColor=000000"/>
 <img align="left" src="https://img.shields.io/badge/-Blender-white?style=for-the-badge&logo=blender&logoColor=#F5792A"/>
 
 <br><br>
