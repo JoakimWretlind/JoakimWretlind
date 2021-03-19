@@ -45,7 +45,10 @@
 <br><br>
 
 <h4>Developer Tools:</h4>
-<p>Git, NPM, Parcel</p>
+<img align="left" src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=#F05032"/>
+<img align="left" src="https://img.shields.io/badge/-Parcel-white?style=for-the-badge&logo=semantic-web&logoColor=005A9C"/>
+
+<br><br>
 
 <h4>Linguistic</h4>
 <p>Swedish (native), English, German</p>
