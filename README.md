@@ -6,7 +6,7 @@
 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joakimwretlind&show_icons=true&theme=react" width="65%"/>
-<img align="right" width="30%" src="githubAssets/shape.png"/>
+<img align="right" width="30%" src="githubAssets/shape2.png"/>
 
 <br><br>
 
