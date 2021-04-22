@@ -25,6 +25,7 @@
 <img align="left" src="https://img.shields.io/badge/-Green%20Sock-white?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
 <img align="left" src="https://img.shields.io/badge/-Sass-white?style=for-the-badge&logo=Sass&logoColor=#CC6699"/>
 <img align="left" src="https://img.shields.io/badge/-Tailwind%20CSS-white?style=for-the-badge&logo=Tailwind%20CSS&logoColor=#38B2AC"/>
+<img align="left" src="https://img.shields.io/badge/-Styled%20Components-white?style=flat-square&logo=styled-components&logoColor=DB7093" />
 
 
 <br><br>
