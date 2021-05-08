@@ -1,5 +1,5 @@
 <h1 align="center">Software Engineer &#9812; Frontend Developer</h1>
-<p align="center">Continous Learner <strong>&&</strong> Building things from Scratch <strong>&&</strong> Dedicated Father</p>
+<p align="center">Continous Learner <strong>&&</strong> Love to Create <strong>&&</strong> Dedicated Father</p>
 
 
 <h3>GitHub Stats:</h3>
