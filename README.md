@@ -53,6 +53,7 @@
 <h4>Developer Tools & Other:</h4>
 <img align="left" src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=#F05032"/>
 <img align="left" src="https://img.shields.io/badge/-Parcel-white?style=for-the-badge&logo=semantic-web&logoColor=005A9C"/>
+<img align="left" src="https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=633194" />
 
 <br><br>
 
