@@ -36,6 +36,7 @@
 <img align="left" src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=000000"/>
 <img align="left" src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=#47A2480"/>
 <img align="left" src="https://img.shields.io/badge/-Postman-white?style=for-the-badge&logo=postman&logoColor=#FF6C37"/>
+<img align="left" src="https://img.shields.io/badge/-Puppeteer-white?style=for-the-badge&logo=puppeteer&logoColor=#339933"/>
 
 <br><br>
 
