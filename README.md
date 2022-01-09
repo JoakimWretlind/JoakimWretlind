@@ -22,6 +22,7 @@
 
 <h4>Frontend</h4>
 <img align="left" src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+<img align="left" src="https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=000000" />
 <img align="left" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=#61DAFB"/>
 <img align="left" src="https://img.shields.io/badge/-Styled%20Components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
 <img align="left" src="https://img.shields.io/badge/-Green%20Sock-white?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
@@ -33,6 +34,7 @@
 
 <h4>Backend</h4>
 <img align="left" src="https://img.shields.io/badge/-Node.JS-white?style=for-the-badge&logo=node.js&logoColor=#339933"/>
+<img align="left" src="https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=000000" />
 <img align="left" src="https://img.shields.io/badge/-Express-white?style=for-the-badge&logo=express&logoColor=000000"/>
 <img align="left" src="https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=#47A2480"/>
 <img align="left" src="https://img.shields.io/badge/-Postman-white?style=for-the-badge&logo=postman&logoColor=#FF6C37"/>
