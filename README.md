@@ -11,7 +11,7 @@
 <br><br>
 
 <h4 align="left">About:</h4>
-<p>My name is Joakim Wretlind. I'm a unique FrontEnd developer from Stockholm, Sweden.</p>
+<p>My name is Joakim Wretlind. I'm a full stack developer with a penchant for front end. Lives outside Stockholm, Sweden</p>
 
 <h4>Languages</h4>
 <img align="left" src="https://img.shields.io/badge/-JavaScript-white?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/>
@@ -25,10 +25,15 @@
 <img align="left" src="https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=000000" />
 <img align="left" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=#61DAFB"/>
 <img align="left" src="https://img.shields.io/badge/-Styled%20Components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
-<img align="left" src="https://img.shields.io/badge/-Green%20Sock-white?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
-<img align="left" src="https://img.shields.io/badge/-Framer-white?style=for-the-badge&logo=framer&logoColor=DB7093" />
 <img align="left" src="https://img.shields.io/badge/-Sass-white?style=for-the-badge&logo=Sass&logoColor=#CC6699"/>
 
+<br><br>
+
+<h4>Animations & 3D</h4><p>These Are most Frequently Used</p>
+<img align="left" src="https://img.shields.io/badge/-Green%20Sock-white?style=for-the-badge&logo=GreenSock&logoColor=88ce02"/>
+<img align="left" src="https://img.shields.io/badge/-Framer-white?style=for-the-badge&logo=framer&logoColor=DB7093" />
+<img align="left" src="https://img.shields.io/badge/-Three.JS-white?style=for-the-badge&logo=three.js&logoColor=000000">
+<img align="left" src="https://img.shields.io/badge/-Blender-white?style=for-the-badge&logo=blender&logoColor=#F5792A"/>
 
 <br><br>
 
@@ -48,11 +53,10 @@
 <img align="left" src="https://img.shields.io/badge/-Photoshop-white?style=for-the-badge&logo=adobe-photoshop&logoColor=#31A8FF"/>
 <img align="left" src="https://img.shields.io/badge/-InDesign-white?style=for-the-badge&logo=adobe-indesign&logoColor=#31A8FF"/>
 <img align="left" src="https://img.shields.io/badge/-Inkscape-white?style=for-the-badge&logo=inkscape&logoColor=000000"/>
-<img align="left" src="https://img.shields.io/badge/-Blender-white?style=for-the-badge&logo=blender&logoColor=#F5792A"/>
 
 <br><br>
 
-<h4>Developer Tools & Other:</h4>
+<h4>DeveloperTools & Other:</h4>
 <img align="left" src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git&logoColor=#F05032"/>
 <img align="left" src="https://img.shields.io/badge/-Parcel-white?style=for-the-badge&logo=semantic-web&logoColor=005A9C"/>
 <img align="left" src="https://img.shields.io/badge/-Jest-white?style=for-the-badge&logo=jest&logoColor=633194" />
