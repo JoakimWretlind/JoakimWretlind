@@ -18,13 +18,14 @@
 <img align="left" src="https://img.shields.io/badge/-HTML5-white?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/>
 <img align="left" src="https://img.shields.io/badge/-CSS3-white?style=for-the-badge&logo=CSS3&logoColor=1572B6"/>
 <img align="left" src="https://img.shields.io/badge/-dart-white?style=for-the-badge&logo=dart&logoColor=1572B6"/>
-<img align="left" src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=Flutter&logoColor=1572B6"/>
+
 
 <br><br>
 
 <h4>Frontend</h4>
 <img align="left" src="https://img.shields.io/badge/-React-white?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 <img align="left" src="https://img.shields.io/badge/-Next.JS-white?style=for-the-badge&logo=next.js&logoColor=000000" />
+<img align="left" src="https://img.shields.io/badge/-Flutter-white?style=for-the-badge&logo=Flutter&logoColor=1572B6"/>
 <img align="left" src="https://img.shields.io/badge/-TypeScript-white?style=for-the-badge&logo=TypeScript&logoColor=#61DAFB"/>
 <img align="left" src="https://img.shields.io/badge/-Styled%20Components-white?style=for-the-badge&logo=styled-components&logoColor=DB7093" />
 <img align="left" src="https://img.shields.io/badge/-Sass-white?style=for-the-badge&logo=Sass&logoColor=#CC6699"/>
